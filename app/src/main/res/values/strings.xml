@@ -1,3 +1,8 @@
 <resources>
-
+    <string name="app_name">Pertemuan4</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah</string>
+    <string name="nama">Ridho Faiq Ahmad</string>
+    <string name="alamat">Bantul, Sleman</string>
+    <string name="copy">Copyright, 2026</string>
 </resources>
